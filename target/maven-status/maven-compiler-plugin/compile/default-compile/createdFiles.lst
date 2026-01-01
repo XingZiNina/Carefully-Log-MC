@@ -1,0 +1,13 @@
+com\fluxcraft\XXRZ\events\EntityLogger.class
+com\fluxcraft\XXRZ\events\BlockLogger.class
+com\fluxcraft\XXRZ\events\CommandLogger.class
+com\fluxcraft\XXRZ\events\TPSMonitor.class
+com\fluxcraft\XXRZ\utils\GeyserUtils.class
+com\fluxcraft\XXRZ\events\ChatLogger.class
+com\fluxcraft\XXRZ\events\ContainerLogger.class
+com\fluxcraft\XXRZ\XXRZ.class
+com\fluxcraft\XXRZ\events\JoinQuitLogger.class
+com\fluxcraft\XXRZ\LogManager$LogType.class
+com\fluxcraft\XXRZ\LogManager.class
+com\fluxcraft\XXRZ\events\ItemLogger.class
+com\fluxcraft\XXRZ\events\WorldSwitchLogger.class

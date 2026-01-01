@@ -56,6 +56,7 @@ public final class XXRZ extends JavaPlugin {
         pm.registerEvents(new ItemLogger(), this);
         pm.registerEvents(new JoinQuitLogger(), this);
         pm.registerEvents(new EntityLogger(), this);
+        pm.registerEvents(new WorldSwitchLogger(), this); // 新增：注册世界切换监听器
     }
 
     private void startTPSMonitor() {

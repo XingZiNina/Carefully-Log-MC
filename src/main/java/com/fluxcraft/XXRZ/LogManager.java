@@ -27,7 +27,8 @@ public class LogManager {
         JOIN_QUIT("join_quit"),
         ENTITY("entity"),
         TNT("tnt"),
-        TPS("tps");
+        TPS("tps"),
+        WORLD_SWITCH("world_switch"); // 新增：世界切换
 
         private final String folderName;
 
